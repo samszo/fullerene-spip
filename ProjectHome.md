@@ -1,0 +1,1 @@
+Fichier PHP pour la génération dynamique d'univers en VRML
